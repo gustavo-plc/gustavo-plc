@@ -1,5 +1,4 @@
 <p align="justify">
-  # 
 
 ## Hello, I'm Gustavo 👋
 
@@ -31,5 +30,6 @@ Email: [gustavoparreira@hotmail.com](mailto:gustavoparreira@hotmail.com)
 LinkedIn: https://www.linkedin.com/in/gustavo-plc/
 
 GitHub: https://github.com/gustavo-plc
+
 </p>
 

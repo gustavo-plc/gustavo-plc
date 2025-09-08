@@ -2,15 +2,15 @@
 
 ## Hello, I'm Gustavo 👋
 <p align="justify">
-I am an engineer with over 10 years of experience, currently transitioning into Data Science. With a problem-solving mindset, I am focused on applying my skills in Python, SQL, and data analysis to deliver impactful solutions. My technical background enables me to understand and tackle challenges analytically, and I am now deepening my knowledge in Data Science to enhance my ability to provide strategic insights and predictive modeling.
+I am an engineer with over 10 years of experience, currently transitioning into Data Science. With a problem-solving mindset, I am focused on applying my skills to deliver impactful solutions. My technical background enables me to understand and tackle challenges analytically, and I am now deepening my knowledge in Data Science to enhance my ability to provide strategic insights and predictive modeling.
 </p>
 
 ### 🔧 Current Skills:
 <p align="justify">
-Python: Developing skills in data analysis, manipulation and visualization.
-SQL: Experience with relational databases.
-Excel: Proficient in data analysis, chart generation and statistical calculus.
-Machine Learning & AI: Enhancing my knowledge in machine learning algorithms and their application in Data Science.
+Python: Data analysis, manipulation and visualization.
+SQL: Relational databases.
+Excel: Data analysis, chart generation and statistical calculus.
+Machine Learning & AI: Machine learning algorithms and their application in Data Science.
 </p>
 
 ### 🎯 Goal:

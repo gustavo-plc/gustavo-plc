@@ -7,10 +7,10 @@ I am an engineer with over 10 years of experience, currently transitioning into 
 
 ### 🔧 Current Skills:
 <p align="justify">
-Python: Data analysis, manipulation and visualization.
-SQL: Relational databases and Data Analysis.
-Excel: Data analysis, chart generation and statistical calculus.
-Machine Learning & AI: Supervised and Unsupervised Learning, Machine learning algorithms and their application in Data Science.
+Python: Data analysis, manipulation and visualization.</p>
+SQL: Relational databases and Data Analysis.</p>
+Excel: Data analysis, chart generation and statistical calculus.</p>
+Machine Learning & AI: Supervised and Unsupervised Learning, Machine learning algorithms and their application in Data Science.</p>
 </p>
 
 ### 🎯 Goal:

@@ -8,19 +8,14 @@ I am an engineer with over 10 years of experience, currently transitioning into 
 ### 🔧 Current Skills:
 <p align="justify">
 Python: Data analysis, manipulation and visualization.
-SQL: Relational databases.
+SQL: Relational databases and Data Analysis.
 Excel: Data analysis, chart generation and statistical calculus.
-Machine Learning & AI: Machine learning algorithms and their application in Data Science.
+Machine Learning & AI: Supervised and Unsupervised Learning, Machine learning algorithms and their application in Data Science.
 </p>
 
 ### 🎯 Goal:
 <p align="justify">
 To help companies and institutions make more informed and accurate decisions through data analysis, predictive modeling, and strategic insights.
-</p>
-
-### 🌱 Currently learning:
-<p align="justify">
-**Associate Data Scientist in Python** track on DataCamp platform, which includes: Introduction to Python for Data Science, Python for Data Analysis, Data Visualization with Matplotlib, Data Visualization with Seaborn, Introduction to Machine Learning with scikit-learn, Supervised Learning with scikit-learn, Unsupervised Learning in Python, Introduction to Natural Language Processing in Python, Introduction to Deep Learning with PyTorch, Data Analysis with SQL, Introduction to Git for Data Science.
 </p>
 
 ### 💼 I am open to Work:
